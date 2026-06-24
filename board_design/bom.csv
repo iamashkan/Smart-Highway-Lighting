@@ -1,0 +1,25 @@
+reference,component,example_part,notes
+U1,MCU,STM32G0/G4/H5 class MCU with CAN/FDCAN,Recommended next edge-node controller
+U1_ALT,Lab MCU module,ESP32-WROOM-32 or ESP32-S3 module,Wi-Fi MQTT prototype controller only
+U2,Buck converter,LM2596 or MP1584 module,12V/24V to 5V lab supply stage
+U3,3.3V regulator,AMS1117-3.3 or efficient LDO,MCU and sensor rail
+U4,Op-amp,LM358/TLV9002 class,Scale filtered PWM to 0-10V using suitable supply
+U5,mmWave radar,60GHz/24GHz radar module such as XENSIV or IWR/LD class,Presence/speed/direction sensing
+U6,Ambient light sensor,VEML7700 preferred or BH1750 low-cost option,Day/night and environmental brightness over I2C
+U7,Environment sensor,BME280,Enclosure temperature humidity and pressure
+U7B,Driver temperature sensor,NTC thermistor or DS18B20,Driver/luminaire thermal monitoring
+U8,Current sensor,INA219/INA226 or ACS712,Energy and fault telemetry
+U9,CAN/CAN FD transceiver,TJA1051/TCAN class with isolation option,Industrial local bus or wired fallback
+U10,RS485 transceiver,MAX3485/SN65HVD class with isolation option,Modbus RTU sensors maintenance and fallback
+U11,Wireless module,Sub-GHz/LoRa/802.15.4/Wi-Fi HaLow/LTE-M module,Wireless board-to-gateway link
+U12,PLC/RTU gateway,Industrial RTU or PLC zone controller,Cabinet-level gateway and fail-safe supervision
+D1,TVS diode,SMBJ series placeholder,Surge and ESD protection concept
+F1,Fuse/resettable fuse,PTC or cartridge fuse,Input protection placeholder
+J1,Power terminal,2-pin terminal block,12V/24V DC input
+J2,Dimming output A,2-pin terminal block,0-10V channel A
+J3,Dimming output B,2-pin terminal block,0-10V channel B
+J4,DALI placeholder,2-pin terminal block,Future certified DALI interface
+J5,Sensor header,UART/I2C/GPIO header,Sensor harness
+J6,CAN connector,3-pin/4-pin terminal,CANH CANL GND shield
+J7,RS485 connector,3-pin/4-pin terminal,A B GND shield
+J8,Wireless antenna connector,u.FL/SMA or module antenna,Depends on selected certified radio

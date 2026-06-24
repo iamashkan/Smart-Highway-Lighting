@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "filename": "ReLight-X_Edge_Controller.kicad_pro",
+    "version": 1
+  },
+  "project": {
+    "title": "ReLight-X Edge Controller Board Placeholder",
+    "company": "Research prototype",
+    "notes": "Placeholder KiCad project. Replace with a reviewed schematic and PCB before hardware fabrication."
+  }
+}

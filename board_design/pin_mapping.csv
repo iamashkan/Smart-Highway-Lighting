@@ -1,0 +1,31 @@
+signal,pin,interface,notes
+PWM_LUMINAIRE_A,PB6,PWM,Feeds RC/op-amp 0-10V channel A or Wokwi warm-white LED
+PWM_LUMINAIRE_B,PB7,PWM,Feeds RC/op-amp 0-10V channel B or Wokwi yellow LED
+RS485_DE,PB14,GPIO,RS485 driver-enable control for MAX3485/isolated RS485 transceiver
+RS485_TX,PB15,UART/GPIO,Wokwi bus-activity TX indicator; real PCB maps to STM32 USART TX
+RS485_RX,USART_RX_PIN_TBD,UART,Real PCB maps to STM32 USART RX from isolated RS485 transceiver
+CAN_TX,PA11,CAN/GPIO,Wokwi CAN TX indicator; real PCB maps to STM32 CAN/FDCAN TX through CAN transceiver
+CAN_RX,PA12,CAN,Real PCB maps to STM32 CAN/FDCAN RX through CAN transceiver
+AMBIENT_LIGHT_ADC,PA0,ADC,Wokwi LDR proxy for VEML7700/BH1750 ambient light behavior
+RADAR_PROXY_ADC,PA1,ADC,Wokwi slider proxy for mmWave vehicle presence strength
+TEMPERATURE_NTC_ADC,PA2,ADC,Wokwi NTC pole-board temperature input
+LINE_VOLTAGE_ADC,PA3,ADC,Wokwi line-voltage/protection monitor slider
+FAULT_INPUT,PA4,GPIO_PULLUP,Manual forced fault button
+MANUAL_TEST,PA5,GPIO_PULLUP,Local dimming sweep test button
+VEHICLE_A_TEST,PA6,GPIO_PULLUP,Manual vehicle direction A test button
+VEHICLE_B_TEST,PA7,GPIO_PULLUP,Manual vehicle direction B test button
+EMERGENCY_TEST,PB0,GPIO_PULLUP,Manual emergency preemption test button
+BUS_FAULT_TEST,PB1,GPIO_PULLUP,Manual RS485/CAN communication fault test button
+PIR_MOTION,PB10,GPIO,Wokwi PIR motion input as an extra presence trigger
+ULTRASONIC_TRIG,PB12,GPIO,Wokwi HC-SR04 trigger for near-vehicle distance test
+ULTRASONIC_ECHO,PB13,GPIO,Wokwi HC-SR04 echo for near-vehicle distance test
+FAULT_LED,PB8,GPIO,Fault/derate output indicator
+BUS_ACTIVITY_LED,PB9,GPIO,RS485/CAN activity indicator
+STATUS_LED,PC13,GPIO,STM32 Blue Pill status LED output
+I2C_SDA,PB7_OR_BOARD_SPECIFIC,I2C,Real PCB shared VEML7700/BH1750/BME280/INA226 sensor bus; avoid conflict with Wokwi PWM pin when laying out PCB
+I2C_SCL,PB6_OR_BOARD_SPECIFIC,I2C,Real PCB shared VEML7700/BH1750/BME280/INA226 sensor bus; avoid conflict with Wokwi PWM pin when laying out PCB
+ONE_WIRE_TEMP,GPIO_TBD,1-Wire,Optional DS18B20 cable temperature probe on real PCB
+RADIO_SPI_SCK,SPI_SCK_TBD,SPI,Wireless module clock if SPI radio is selected
+RADIO_SPI_MOSI,SPI_MOSI_TBD,SPI,Wireless module MOSI
+RADIO_SPI_MISO,SPI_MISO_TBD,SPI,Wireless module MISO
+RADIO_NSS,GPIO_TBD,GPIO,Wireless module chip select

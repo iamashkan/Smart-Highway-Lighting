@@ -1,0 +1,11 @@
+(kicad_sch
+  (version 20230121)
+  (generator "ReLight-X placeholder")
+  (paper "A4")
+  (title_block
+    (title "ReLight-X Edge Controller Board Placeholder")
+    (company "Research prototype")
+    (comment 1 "ESP32, sensors, PWM-to-0-10V, DALI/D4i future placeholder")
+    (comment 2 "Not fabrication-ready")
+  )
+)

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ReLight-X PCB Detail Viewer</title>
+  <style>
+    body { margin: 0; background: #080d12; color: #eaf8ff; font-family: Arial, sans-serif; }
+    main { max-width: 1500px; margin: 0 auto; padding: 28px; }
+    h1 { margin: 0 0 8px; }
+    p { color: #a8c3d8; line-height: 1.55; }
+    img { width: 100%; border: 1px solid rgba(125, 211, 252, .28); border-radius: 8px; margin: 18px 0 34px; background: #071018; }
+    code { color: #7dd3fc; }
+    .note { border-left: 4px solid #22d3ee; padding: 10px 14px; background: rgba(14, 165, 233, .10); }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>ReLight-X PCB Detail Viewer</h1>
+    <p class="note">These are detailed research/prototype PCB visuals, not fabrication-ready Gerber/KiCad outputs. Use them as a placement, connector, and architecture guide.</p>
+    <h2>STM32 Pole Node PCB Top View</h2>
+    <p>Shows MCU, wireless module, RS485/CAN, mmWave radar, ambient/environment/temperature/current sensors, power input, 0-10V dimming stage, and DALI/D4i future connector.</p>
+    <img src="relightx_stm32_node_pcb_top.png" alt="ReLight-X STM32 node PCB top view" />
+    <h2>Five PCB Network</h2>
+    <p>Shows five pole-node PCBs connected wirelessly to an industrial PLC/RTU gateway, each with its own luminaire and sensor stack.</p>
+    <img src="relightx_five_node_pcb_network.png" alt="ReLight-X five node PCB network" />
+    <p>Related files: <code>board_design/bom.csv</code>, <code>board_design/pin_mapping.csv</code>, <code>board_design/five_node_board_map.csv</code>.</p>
+  </main>
+</body>
+</html>
