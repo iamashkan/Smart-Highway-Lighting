@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<robot name="relightx_highway" xmlns:xacro="http://ros.org/wiki/xacro">
+  <link name="world"/>
+  <xacro:macro name="lighting_pole" params="name x">
+    <link name="${name}">
+      <visual>
+        <origin xyz="${x} 0 4" rpy="0 0 0"/>
+        <geometry>
+          <cylinder radius="0.12" length="8.0"/>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="${name}_joint" type="fixed">
+      <parent link="world"/>
+      <child link="${name}"/>
+    </joint>
+  </xacro:macro>
+  <xacro:lighting_pole name="pole_001" x="0"/>
+  <xacro:lighting_pole name="pole_002" x="40"/>
+  <xacro:lighting_pole name="pole_003" x="80"/>
+</robot>

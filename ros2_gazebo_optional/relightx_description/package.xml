@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>relightx_description</name>
+  <version>0.1.0</version>
+  <description>Optional ReLight-X highway lighting description skeleton.</description>
+  <maintainer email="research@example.com">ReLight-X Prototype</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+</package>
