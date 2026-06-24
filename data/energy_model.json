@@ -1,0 +1,6 @@
+{
+  "max_power_watts_per_luminaire": 160.0,
+  "eco_brightness": 0.3,
+  "baseline": "all luminaires at 100% brightness",
+  "co2_kg_per_kwh": 0.404
+}

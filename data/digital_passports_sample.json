@@ -1,0 +1,1538 @@
+[
+  {
+    "passport_id": "DPP-P001-A",
+    "luminaire_id": "P001-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P001-B",
+    "luminaire_id": "P001-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P002-A",
+    "luminaire_id": "P002-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P002-B",
+    "luminaire_id": "P002-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P003-A",
+    "luminaire_id": "P003-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P003-B",
+    "luminaire_id": "P003-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P004-A",
+    "luminaire_id": "P004-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P004-B",
+    "luminaire_id": "P004-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P005-A",
+    "luminaire_id": "P005-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P005-B",
+    "luminaire_id": "P005-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P006-A",
+    "luminaire_id": "P006-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P006-B",
+    "luminaire_id": "P006-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P007-A",
+    "luminaire_id": "P007-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P007-B",
+    "luminaire_id": "P007-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P008-A",
+    "luminaire_id": "P008-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P008-B",
+    "luminaire_id": "P008-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P009-A",
+    "luminaire_id": "P009-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P009-B",
+    "luminaire_id": "P009-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P010-A",
+    "luminaire_id": "P010-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P010-B",
+    "luminaire_id": "P010-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P011-A",
+    "luminaire_id": "P011-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P011-B",
+    "luminaire_id": "P011-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P012-A",
+    "luminaire_id": "P012-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P012-B",
+    "luminaire_id": "P012-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P013-A",
+    "luminaire_id": "P013-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P013-B",
+    "luminaire_id": "P013-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P014-A",
+    "luminaire_id": "P014-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P014-B",
+    "luminaire_id": "P014-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P015-A",
+    "luminaire_id": "P015-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P015-B",
+    "luminaire_id": "P015-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P016-A",
+    "luminaire_id": "P016-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P016-B",
+    "luminaire_id": "P016-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P017-A",
+    "luminaire_id": "P017-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P017-B",
+    "luminaire_id": "P017-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P018-A",
+    "luminaire_id": "P018-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P018-B",
+    "luminaire_id": "P018-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P019-A",
+    "luminaire_id": "P019-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P019-B",
+    "luminaire_id": "P019-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P020-A",
+    "luminaire_id": "P020-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P020-B",
+    "luminaire_id": "P020-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P021-A",
+    "luminaire_id": "P021-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P021-B",
+    "luminaire_id": "P021-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P022-A",
+    "luminaire_id": "P022-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P022-B",
+    "luminaire_id": "P022-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P023-A",
+    "luminaire_id": "P023-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P023-B",
+    "luminaire_id": "P023-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P024-A",
+    "luminaire_id": "P024-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P024-B",
+    "luminaire_id": "P024-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P025-A",
+    "luminaire_id": "P025-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P025-B",
+    "luminaire_id": "P025-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P026-A",
+    "luminaire_id": "P026-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P026-B",
+    "luminaire_id": "P026-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P027-A",
+    "luminaire_id": "P027-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P027-B",
+    "luminaire_id": "P027-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P028-A",
+    "luminaire_id": "P028-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P028-B",
+    "luminaire_id": "P028-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P029-A",
+    "luminaire_id": "P029-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P029-B",
+    "luminaire_id": "P029-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P030-A",
+    "luminaire_id": "P030-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P030-B",
+    "luminaire_id": "P030-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P031-A",
+    "luminaire_id": "P031-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P031-B",
+    "luminaire_id": "P031-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P032-A",
+    "luminaire_id": "P032-A",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  },
+  {
+    "passport_id": "DPP-P032-B",
+    "luminaire_id": "P032-B",
+    "manufacturer_placeholder": "Roadway LED OEM placeholder",
+    "model_placeholder": "Zhaga-D4i / NEMA 7-pin compatible highway luminaire class",
+    "installation_date": "2026-01-15",
+    "driver_type": "Dimmable LED driver, simulated 0-10V/PWM lab interface",
+    "dimming_protocol": "simulated_pwm_0_10v",
+    "material_composition_placeholder": {
+      "housing": "aluminium alloy",
+      "lens": "polycarbonate or tempered glass",
+      "electronics": "LED driver, control board, surge protection",
+      "notes": "Simulated data for research prototype; verify with OEM passport data for deployment."
+    },
+    "maintenance_history": [],
+    "operating_hours": 0.0,
+    "energy_history": {
+      "adaptive_kwh": 1e-05
+    },
+    "fault_history": [],
+    "health_score": 98.0,
+    "remaining_useful_life_estimate": 98000.0,
+    "rex_decision": "Reuse"
+  }
+]

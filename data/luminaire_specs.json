@@ -1,0 +1,9 @@
+{
+  "target_luminaire_class": [
+    "Schreder IZYLUM / IZYLUM NEO / NEOS GEN2 style roadway luminaires",
+    "Philips/Signify Luma gen2 or RoadFocus LED style roadway luminaires",
+    "Any Zhaga-D4i or NEMA 7-pin compatible LED roadway luminaire with dimmable driver"
+  ],
+  "prototype_dimming": "simulated PWM and 0-10V lab interface",
+  "future_dimming": "DALI/D4i via certified transceiver and protocol stack"
+}

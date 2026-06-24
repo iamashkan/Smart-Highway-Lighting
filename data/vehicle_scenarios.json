@@ -1,0 +1,109 @@
+{
+  "empty_highway": [],
+  "normal_car_direction_a": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-A-01",
+      "type": "normal_car",
+      "direction": "A",
+      "lane_id": "A2",
+      "start_position_m": -50.0,
+      "speed_mps": 24.0
+    }
+  ],
+  "normal_car_direction_b": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-B-01",
+      "type": "normal_car",
+      "direction": "B",
+      "lane_id": "B2",
+      "start_position_m": null,
+      "speed_mps": 24.0
+    }
+  ],
+  "two_cars_opposite": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-A-01",
+      "type": "normal_car",
+      "direction": "A",
+      "lane_id": "A1",
+      "start_position_m": -30.0,
+      "speed_mps": 22.0
+    },
+    {
+      "spawn_time_s": 3,
+      "vehicle_id": "CAR-B-01",
+      "type": "normal_car",
+      "direction": "B",
+      "lane_id": "B3",
+      "start_position_m": null,
+      "speed_mps": 26.0
+    }
+  ],
+  "emergency_ambulance_direction_a": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "AMB-A-01",
+      "type": "ambulance",
+      "direction": "A",
+      "lane_id": "A2",
+      "start_position_m": -70.0,
+      "speed_mps": 31.0
+    }
+  ],
+  "police_fire_direction_b": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "POL-B-01",
+      "type": "police_car",
+      "direction": "B",
+      "lane_id": "B2",
+      "start_position_m": null,
+      "speed_mps": 30.0
+    },
+    {
+      "spawn_time_s": 12,
+      "vehicle_id": "FIRE-B-02",
+      "type": "fire_truck",
+      "direction": "B",
+      "lane_id": "B1",
+      "start_position_m": null,
+      "speed_mps": 25.0
+    }
+  ],
+  "sensor_fault": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-A-FAULT",
+      "type": "normal_car",
+      "direction": "A",
+      "lane_id": "A2",
+      "start_position_m": -40.0,
+      "speed_mps": 22.0
+    }
+  ],
+  "communication_loss": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-B-COMM",
+      "type": "normal_car",
+      "direction": "B",
+      "lane_id": "B2",
+      "start_position_m": null,
+      "speed_mps": 24.0
+    }
+  ],
+  "degraded_luminaire": [
+    {
+      "spawn_time_s": 0,
+      "vehicle_id": "CAR-A-DEG",
+      "type": "normal_car",
+      "direction": "A",
+      "lane_id": "A2",
+      "start_position_m": -40.0,
+      "speed_mps": 23.0
+    }
+  ]
+}
