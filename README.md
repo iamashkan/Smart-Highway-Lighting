@@ -29,7 +29,7 @@
 
 The system is **simulation-first** by design: it does not assume access to real luminaires or motorway infrastructure, so the full pipeline — sensing → control → lighting → telemetry → lifecycle — runs end-to-end on a laptop, and is wired to drive a **virtual STM32 edge-controller board** and a **Unity 6 digital twin**.
 
-> Built to be credible for lab demonstration, thesis defense, and engineering review — **not** a certified road deployment.
+> Built to be credible for lab demonstration and engineering review — **not** a certified road deployment.
 
 <div align="center">
 
@@ -140,7 +140,6 @@ edge_controller_firmware/ Legacy ESP32 PlatformIO firmware notes
 board_design/             Board concept · BOM · pin map · KiCad placeholders · PCB visualization
 board_simulation_wokwi/   Wokwi STM32 board simulation with RS485/CAN and sensors
 data/                     Generated sample JSON / CSV datasets
-docs/                     Research documentation, diagrams & thesis study
 ros2_gazebo_optional/     Minimal optional ROS2 / Gazebo skeleton
 tests/                    Backend smoke tests
 ```
@@ -170,17 +169,18 @@ source .venv/bin/activate
 python tools/run_board_network_demo.py
 ```
 Then open `http://127.0.0.1:8501` and pick **Board Network** in the sidebar.
-Detailed guide → [Five-Node Board Demo](docs/five_node_board_demo.md)
 
 ### 🎮 Unity 6 Digital Twin
 
 Open `unity_projects/ReLightX_Unity6` in Unity Hub. On first launch the editor script builds the full night-highway scene (`Assets/ReLightX/Scenes/ReLightXHighway.unity`); if it doesn't appear, run **ReLight-X → Build Unity 6 Highway Scene** from the menu. The scene is visualization-only: night highway, traffic, emergency vehicles, selectable vehicle cameras, and adaptive lighting.
 
-### 🎓 Thesis-Style Validation
+### 🧪 Simulation Validation
+
+Run the full no-hardware validation suite — unit tests plus traffic, emergency, energy and fault scenario checks:
 
 ```bash
 source .venv/bin/activate
-python tools/run_thesis_validation.py   # → data/runs/thesis_validation/
+python tools/run_validation.py   # → data/runs/validation/
 ```
 
 ---
@@ -193,18 +193,6 @@ python tools/run_thesis_validation.py   # → data/runs/thesis_validation/
 | `normal_car_direction_a` | `police_fire_direction_b` | `communication_loss` |
 | `normal_car_direction_b` | | `degraded_luminaire` |
 | `two_cars_opposite` | | |
-
----
-
-## 📚 Documentation
-
-| | |
-|---|---|
-| 🧭 [System Architecture](docs/system_architecture.md) | 🧮 [Backend Algorithm](docs/backend_algorithm.md) |
-| 📡 [MQTT Protocol](docs/mqtt_protocol.md) | 🔧 [Hardware Architecture](docs/hardware_architecture.md) |
-| 🔌 [Board Design](docs/board_design.md) | 🎮 [Unity Digital Twin](docs/unity_digital_twin.md) |
-| ✅ [Testing Plan](docs/testing_plan.md) | 🎓 [Master Thesis Simulation Study](docs/master_thesis_simulation_study.md) |
-| 📋 [Thesis Demo & Validation Steps](docs/thesis_demo_and_validation_steps.md) | 🔭 [Limitations & Future Work](docs/limitations_and_future_work.md) |
 
 ---
 
