@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+data/runs/
+.streamlit/secrets.toml
+*.log
+unity_projects/*/Library/
+unity_projects/*/Temp/
+unity_projects/*/Logs/
+unity_projects/*/UserSettings/
+unity_projects/*/obj/
+unity_projects/*/Build/
+unity_projects/*/Builds/
