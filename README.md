@@ -16,7 +16,6 @@
 
 ![Status](https://img.shields.io/badge/status-research%20prototype-success?style=flat-square)
 ![Simulation](https://img.shields.io/badge/mode-simulation--first-blue?style=flat-square)
-![Energy](https://img.shields.io/badge/energy%20saved-up%20to%2070%25-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 </div>
@@ -107,12 +106,34 @@ The same control logic drives three substitutable front-ends: a **Streamlit ops 
 
 ## ⚡ Why It Matters
 
-<div align="center">
+**The honest version first: energy is not the strongest argument here — the emergency
+response is.**
+
+Adaptive dimming is already a commercial product. Schréder ships motorway lighting with
+sensing and central control (its Owlet system), Tvilight has sold presence-based street
+lighting for years, and many highway authorities have gone further still: switching motorway
+lighting **off entirely** between roughly midnight and 05:30, which saves on the order of 50%
+and which engineering reviews found did not measurably harm driver safety, because traffic
+volumes in those hours are too low to justify the lighting.
+
+So the numbers below are real measurements of *this* controller against an
+all-luminaires-at-100% baseline — and that baseline is a strawman for any modern motorway.
+Against part-night switch-off, this system uses **more** energy, not less, because it holds an
+eco floor all night.
+
+**What it buys instead is the thing switch-off cannot do:** the road is dark until it is
+needed, and when an emergency vehicle is detected the controller raises a full-brightness
+safety corridor ahead of it, in its direction of travel only, within one control cycle. A
+switched-off motorway cannot do that at all, and a fixed dimming schedule cannot either.
+Emergency-vehicle detection is itself an active research problem — recent work builds
+dedicated multi-camera systems and datasets just for detecting blue emergency lights.
 
 | Metric | Value | Notes |
 |---|---|---|
-| 🌙 Energy saved (empty road) | **≈ 70%** | vs. all-luminaires-at-100% baseline |
-| 🚗 Energy saved (single vehicle) | **≈ 63%** | directional wave, opposite direction stays eco |
+| 🚨 Emergency corridor latency | **1 control cycle** | detection → full brightness ahead of the vehicle |
+| 🌙 Energy vs. all-on baseline (empty road) | **≈ 70%** | ⚠️ strawman baseline — see above |
+| 🚗 Energy vs. all-on baseline (single vehicle) | **≈ 63%** | directional wave, opposite direction stays eco |
+| 🌗 Energy vs. part-night switch-off | **worse** | this system keeps an eco floor; switch-off uses zero |
 | 💡 Max power / luminaire | **160 W** | dimmable LED roadway driver class |
 | 🌍 Carbon factor | **0.404 kg CO₂ / kWh** | configurable grid intensity |
 | 👁️ Detection range | **90 m** | look-ahead vehicle anticipation |
